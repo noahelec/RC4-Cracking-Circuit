@@ -25,15 +25,6 @@ The project is divided into three main tasks:
    - Cycle through all possible keys to find the correct decryption key.
    - Display the current key on the HEX displays and indicate the result using LEDs.
 
-## Files
-
-- `s_memory.vhd`: VHDL file for the single-port RAM.
-- `ksa.vhd`: VHDL file implementing the RC4 Key Scheduling Algorithm (KSA).
-- `rc4_decryption.vhd`: VHDL file implementing the RC4 decryption core.
-- `rc4_cracking.vhd`: VHDL file implementing the brute-force RC4 cracking circuit.
-- `SevenSegmentDisplayDecoder.vhd`: Module to drive the 7-segment displays.
-- `message.mif`: Memory Initialization File for the encrypted message.
-- `Lab4_Instructions.pdf`: Detailed lab instructions and background information.
 
 ## Usage
 
