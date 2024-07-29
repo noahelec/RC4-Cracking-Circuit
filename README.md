@@ -53,9 +53,6 @@ The project is divided into three main tasks:
 3. Set the secret key using the slider switches.
 4. Use the In-System Memory Content Editor to observe the decrypted message.
 
-## Bonus Task: Multi-Core Cracking
-
-Implement multiple decryption cores to search different portions of the keyspace simultaneously for faster cracking.
 
 ## Acknowledgments
 
