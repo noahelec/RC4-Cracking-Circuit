@@ -1,6 +1,6 @@
 # RC4 Cracking Circuit
 
-This repository contains the design and implementation of an RC4 decryption and cracking circuit. This project is part of the CPEN 311 Digital Systems Design course at the University of British Columbia.
+This repository contains the design and implementation of an RC4 decryption and cracking circuit. 
 
 ## Overview
 
